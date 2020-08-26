@@ -1,0 +1,10 @@
+Package: MyPackage
+Version: VERSION_NUMBER
+Architecture: all
+Maintainer: Chris Bier <github@cymor.com>
+Depends: vim, python3-venv
+Section: python
+Priority: extra
+Homepage: https://github.com/chrisbier/minimal-deb
+Description: A minimal package that doesn't really do anything.
+ This is another line to the description and has a space at the beginning.
