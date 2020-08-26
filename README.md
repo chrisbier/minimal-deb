@@ -13,5 +13,7 @@ Example: `debian/opt/mypackage/blah` Will be installed at: `/opt/mypackage/blah`
 
 # More info
 https://en.wikipedia.org/wiki/Deb_%28file_format%29
+
 https://wiki.debian.org/Packaging
+
 https://www.debian.org/doc/manuals/developers-reference/
